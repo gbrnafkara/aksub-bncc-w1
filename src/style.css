@@ -107,7 +107,7 @@ a {
 }
 
 .show {
-  visibility: visible;
+  color: red;
 }
 
 .card {
